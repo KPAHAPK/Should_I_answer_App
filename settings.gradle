@@ -1,0 +1,2 @@
+rootProject.name = "Should_I_see_that_App"
+include ':app'
